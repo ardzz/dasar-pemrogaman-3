@@ -70,7 +70,7 @@ if umur >= minimal_umur:
 else:
     print("Anda belum cukup umur untuk membuat SIM")
 ```
-
+<img src="Screenshots/Screen Shot 2022-09-27 at 23.00.57.png"/>
 
 ##### 2.1.2. Struktur Perulangan
 ```python
@@ -81,7 +81,7 @@ for i in reversed(range(1, 10)):
     # cetak karakter * sebanyak i
     print("*" * i)
 ```
-
+<img src="Screenshots/Screen Shot 2022-09-27 at 23.01.55.png"/>
 
 ##### 2.2.3 Struktur Percabangan Lanjutan
 ```python
@@ -119,6 +119,7 @@ else:
     print(f"Bilangan 3 ({bilangan_3}) lebih besar dari bilangan 1 ({bilangan_1}) dan bilangan 2 ({bilangan_2})")
 
 ```
+<img src="Screenshots/Screen Shot 2022-09-27 at 23.02.47.png"/>
 
 ##### 2.2.4. Contoh Kasus
 ```python
@@ -241,6 +242,7 @@ def menu():
 # jalankan fungsi menu
 menu()
 ```
+<img src="Screenshots/Screen Shot 2022-09-27 at 23.20.27.png"/>
 
 ##### 2.2.5. Latihan
 Buatlah program untuk menentukan **mahasiswa baru** mana yang layak mendapatkan beasiswa. 
@@ -277,7 +279,7 @@ nim = input("Masukkan nim: ")
 jurusan = input("Masukkan jurusan: ")
 
 # input nilai mata pelajaran ujian SMA
-nilai_bahasa_indonesia = int(input("Masukkan nilai ahasa Indonesia: "))
+nilai_bahasa_indonesia = int(input("Masukkan nilai bahasa Indonesia: "))
 nilai_bahasa_inggris = int(input("Masukkan nilai bahasa Inggris: "))
 nilai_matematika = int(input("Masukkan nilai matematika: "))
 nilai_fisika = int(input("Masukkan nilai fisika: "))
@@ -299,6 +301,7 @@ elif rata_rata_nilai_raport > 90:
 else:
     print("Mahasiswa tidak layak mendapatkan beasiswa")
 ```
+<img src="Screenshots/Screen Shot 2022-09-27 at 23.22.40.png"/>
 
 #### BAB 3 - Kesimpulan
 Dengan dilaksaanakannya praktikum ini, dapat disimpulkan bahwa:
