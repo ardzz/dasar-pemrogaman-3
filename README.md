@@ -20,10 +20,9 @@
     * [1.2. Struktur Percabangan](#12-struktur-percabangan)
     * [1.3. Struktur Perulangan](#13-struktur-perulangan)
   * [BAB 2 - Praktikum](#bab-2---praktikum)
-    * [2.1. Struktur Percabangan](#21-struktur-percabangan)
     * [2.1.1. Struktur Percabangan `if-else`](#211-struktur-percabangan-if-else)
     * [2.1.2. Struktur Perulangan](#212-struktur-perulangan)
-    * [2.2.3 Struktur Percabangan Lanjutan](#223-struktur-percabangan-lanjutan)
+    * [2.2.3. Struktur Percabangan Lanjutan](#223-struktur-percabangan-lanjutan)
     * [2.2.4. Contoh Kasus](#224-contoh-kasus)
     * [2.2.5. Latihan](#225-latihan)
     * [2.2.6. Penyelesaian](#226-penyelesaian)
@@ -244,7 +243,7 @@ menu()
 ```
 
 ##### 2.2.5. Latihan
-Buatlah program untuk menentukan mahasiswa yang layak mendapatkan beasiswa. 
+Buatlah program untuk menentukan **mahasiswa baru** mana yang layak mendapatkan beasiswa. 
 Program tersebut memiliki 4 input yaitu nama, nim, jurusan, dan nilai raport mata pelajaran ujian SMA
 - Jika nilai rata-rata raport lebih dari 95, maka mahasiswa tersebut layak mendapatkan beasiswa kelas unggulan
 - Jika nilai rata-rata raport lebih dari 90, maka mahasiswa tersebut layak mendapatkan beasiswa kelas regular
