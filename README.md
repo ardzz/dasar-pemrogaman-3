@@ -13,9 +13,6 @@
 **PROGRAM STUDI TEKNIK INFORMATIKA JURUSAN TEKNIK ELEKTRO POLITEKNIK NEGERI SEMARANG - 2022**
 
 #### Tabel Isi
-* [JOBSHEET 3 - DASAR PEMROGRAMMAN](#jobsheet-3---dasar-pemrogramman)
-  * [Dibuat dan disusun oleh](#dibuat-dan-disusun-oleh)
-  * [Tabel Isi](#tabel-isi)
   * [Tujuan Praktikum](#tujuan-praktikum)
   * [Alat dan Bahan](#alat-dan-bahan)
   * [BAB 1 - Dasar Teori](#bab-1---dasar-teori)
@@ -56,8 +53,7 @@ Struktur perulangan adalah suatu perintah yang digunakan untuk mengulang suatu p
 <br>
 
 #### BAB 2 - Praktikum
-##### 2.1. Struktur Percabangan
-###### 2.1.1. Struktur Percabangan `if-else`
+##### 2.1.1. Struktur Percabangan `if-else`
 ```python
 # input umur
 umur = int(input("Masukkan umur: "))
@@ -77,7 +73,7 @@ else:
 ```
 
 
-###### 2.1.2. Struktur Perulangan
+##### 2.1.2. Struktur Perulangan
 ```python
 # membuat segitiga terbalik
 # gunakan reversed() untuk membalikkan angka
@@ -88,7 +84,7 @@ for i in reversed(range(1, 10)):
 ```
 
 
-###### 2.2.3 Struktur Percabangan Lanjutan
+##### 2.2.3 Struktur Percabangan Lanjutan
 ```python
 # program pembandingan 3 bilangan
 # input bilangan 1
@@ -125,7 +121,7 @@ else:
 
 ```
 
-###### 2.2.4. Contoh Kasus
+##### 2.2.4. Contoh Kasus
 ```python
 # import library sqlite3
 import sqlite3
@@ -247,13 +243,13 @@ def menu():
 menu()
 ```
 
-###### 2.2.5. Latihan
+##### 2.2.5. Latihan
 Buatlah program untuk menentukan mahasiswa yang layak mendapatkan beasiswa. 
 Program tersebut memiliki 4 input yaitu nama, nim, jurusan, dan nilai raport mata pelajaran ujian SMA
 - Jika nilai rata-rata raport lebih dari 95, maka mahasiswa tersebut layak mendapatkan beasiswa kelas unggulan
 - Jika nilai rata-rata raport lebih dari 90, maka mahasiswa tersebut layak mendapatkan beasiswa kelas regular
 
-###### 2.2.6. Penyelesaian
+##### 2.2.6. Penyelesaian
 Algoritma
 ```
 1. Mulai
